@@ -1,0 +1,14 @@
+[
+    {
+        "donor_id": "D001",
+        "name": "Amit Kumar",
+        "age": 19,
+        "gender": "Male",
+        "blood_group": "B+",
+        "contact": "7903488890",
+        "email": "amit@gmail.com",
+        "city": "Rajkot",
+        "last_donation": "Never",
+        "availability": "Available"
+    }
+]
